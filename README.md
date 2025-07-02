@@ -10,6 +10,21 @@ To understand how casual riders and annual members use Cyclistic bikes different
 
 ---
 
+## 📚 Data Source
+
+This analysis uses historical trip data from the **Cyclistic**, a bike-share program in Chicago. The dataset simulates real-world bike-sharing behavior and is publicly provided by [Divvy Bikes](https://divvy-tripdata.s3.amazonaws.com/index.html), the official bike-share system in Chicago operated by Lyft.
+
+- **Duration**: 12 months of data (June 2024 – May 2025)
+- **Granularity**: Individual ride-level data
+- **Key Fields**:
+  - `ride_id`, `rideable_type`
+  - `started_at`, `ended_at`
+  - `start_station_name`, `end_station_name`
+  - `member_casual` (user type)
+- Data was downloaded monthly and merged for full-year analysis.
+
+---
+
 ## 🛠️ Tools & Libraries
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
