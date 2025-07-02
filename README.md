@@ -27,6 +27,8 @@ This project provides marketing and operations teams with concrete, data-driven 
 
 ## 📎 License
 
-This project is for educational and portfolio purposes. Not affiliated with Cyclistic.
+This project is licensed under the MIT License.
+
+Author Developed by Azka Ihsan Nurrahman – Feel free to reach out for collaboration or feedback!
 
 ---
